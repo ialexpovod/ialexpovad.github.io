@@ -246,7 +246,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Update the content of the element with id "currentYear"
         var footerCopy = document.getElementById('currentYear');
         if (footerCopy) {
-            footerCopy.innerHTML = '&copy; ' + currentYear + ', Alex Povad';
+            footerCopy.innerHTML = '&copy; ' + currentYear + ', Aliaksandr Povad';
         }
     }
 
